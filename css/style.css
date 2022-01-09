@@ -1,0 +1,210 @@
+
+/* common css start */
+body{
+
+
+
+	margin:0;
+	padding: 0;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	
+
+
+}
+
+/* common css end */
+
+
+
+/* header start */
+
+header{
+
+	/*border: 1px solid green;*/
+  	/*padding: 20px 0 ;*/
+
+
+
+  }
+
+
+.container {
+
+	/*border:1px solid ;*/
+
+	margin: 0 auto;
+	width: 70%;
+	overflow: hidden;
+	padding-bottom: 50px;
+	background-color:#E8E8EA;
+
+
+}
+
+
+.content{
+
+	width: 40%;
+    margin-left: 30%;
+    text-align: center;
+
+
+
+}
+
+.content img{
+
+	width:100%;
+	
+
+
+
+}
+
+.para{
+
+
+
+
+
+
+}
+
+
+.p_content{
+
+
+	    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.p_content h2{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+
+
+
+
+
+}
+
+
+
+.a p{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	 line-height: 35px;
+
+
+
+
+
+}
+
+.a{
+
+	text-indent: 30px;
+
+
+}
+
+.container1{
+
+
+/*border:1px solid ;*/
+
+	margin: 0 auto;
+	width:95%;
+	overflow: hidden;
+	padding-bottom: 50px;
+
+
+
+}
+
+.border{
+
+
+
+
+
+}
+
+.img{
+
+	text-align: center;
+
+
+
+}
+
+.img img{
+	width: 13%;
+
+
+
+	  
+
+}
+
+.s1 span { 
+
+
+      border-bottom: 5px solid #bf3131;
+    /* margin-bottom: -48px; */
+    padding-left: 43%;
+    padding-bottom: 50px;
+
+
+
+
+}
+
+
+.s2 span { 
+
+
+           border-bottom: 5px solid #bf3131;
+    padding-left: 43%;
+    padding-bottom: -9px;
+    float: right;
+    margin-top: -72px;
+
+
+
+
+
+}
+
+.name{
+
+	text-align: center;
+
+
+
+
+}
+
+.name h1{
+
+	
+	    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px;
+    text-transform: uppercase;
+    border-bottom: 4px solid #eb3535;
+    display: inline-block;
+
+
+
+
+
+}
